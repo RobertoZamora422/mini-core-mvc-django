@@ -115,3 +115,9 @@ Proyecto funcional en entorno local con backend y frontend conectados correctame
 ## Autor
 
 Roberto Zamora
+
+## Enlaces del proyecto
+
+- GitHub: https://github.com/RobertoZamora422/mini-core-mvc-django
+- Video: https://youtu.be/qfhiPcE1bsc
+- Deploy: https://mini-core-mvc-frontend.onrender.com
